@@ -44,13 +44,13 @@
 
 #### Step 1 - install
 
-```
+```npm
 	npm install react-native-picker --save
 ```
 
 #### Step 2 - link
 
-```
+```npm
 	react-native link
 ```
 
